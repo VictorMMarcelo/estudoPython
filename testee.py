@@ -25,6 +25,7 @@ print('maior {} e menor {}' .format(maior, menor))
 
 print('')
 
+
 for i in n1:
     if i > 50:
         print('Numero maior que 50: {}' .format(i))
